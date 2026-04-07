@@ -359,7 +359,7 @@ Every algorithm and data structure is brought to life with beautiful, dark-theme
 ## 🙏 Credits
 
 - Inspired by classic DSA visualizers and modern UI/UX trends.
-- Developed by [Abhishek Jha](https://github.com/Abhishekjha41) and [Sumit Kumar](https://github.com/sumitkr-2)
+- Developed by Aman Kumar
 - Special thanks to the open-source community!
 
 ---
